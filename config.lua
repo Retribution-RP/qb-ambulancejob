@@ -35,11 +35,11 @@ Config.AlertShowInfo = 2 -- How many injuries a player must have before being al
 
 Config.Locations = { -- Edit the various interaction points for players or create new ones
     ["checking"] = {
-	    [1] = vector3(308.19, -595.35, 43.29),
+	    [1] = vector3(307.58, -595.1, 42.68),
 	    [2] = vector3(-254.54, 6331.78, 32.43), -- paleto
     },
     ["duty"] = {
-        [1] = vector3(311.18, -599.25, 43.29),
+        [1] = vector3(312.79, -594.45, 43.28),
         [2] = vector3(-254.88, 6324.5, 32.58),
     },
     ["vehicle"] = {
@@ -51,7 +51,7 @@ Config.Locations = { -- Edit the various interaction points for players or creat
         [2] = vector4(-475.43, 5988.353, 31.716, 31.34),
     },
     ["armory"] = {
-        [1] = vector3(309.93, -602.94, 43.29),
+        [1] = vector3(306.36, -601.67, 43.28),
         [2] = vector3(-245.13, 6315.71, 32.82),
     },
     ["roof"] = {
@@ -61,7 +61,7 @@ Config.Locations = { -- Edit the various interaction points for players or creat
         [1] = vector3(298.74, -599.33, 43.29),
     },
     ["stash"] = {
-        [1] = vector3(309.78, -596.6, 43.29),
+        [1] = vector3(310.33, -602.96, 43.28),
     },
     ["beds"] = {
         [1] = {coords = vector4(353.1, -584.6, 43.11, 152.08), taken = false, model = 1631638868},
