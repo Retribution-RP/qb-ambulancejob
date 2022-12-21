@@ -64,14 +64,10 @@ Config.Locations = { -- Edit the various interaction points for players or creat
         [1] = vector3(310.33, -602.96, 43.28),
     },
     ["beds"] = {
-        [1] = {coords = vector4(353.1, -584.6, 43.11, 152.08), taken = false, model = 1631638868},
-        [2] = {coords = vector4(356.79, -585.86, 43.11, 152.08), taken = false, model = 1631638868},
-        [3] = {coords = vector4(354.12, -593.12, 43.1, 336.32), taken = false, model = 2117668672},
-        [4] = {coords = vector4(350.79, -591.8, 43.1, 336.32), taken = false, model = 2117668672},
-        [5] = {coords = vector4(346.99, -590.48, 43.1, 336.32), taken = false, model = 2117668672},
-        [6] = {coords = vector4(360.32, -587.19, 43.02, 152.08), taken = false, model = -1091386327},
-        [7] = {coords = vector4(349.82, -583.33, 43.02, 152.08), taken = false, model = -1091386327},
-        [8] = {coords = vector4(326.98, -576.17, 43.02, 152.08), taken = false, model = -1091386327},
+        [1] = {coords = vector4(314.71, -584.35, 44.2, 70.04), taken = false, model = 1631638868},
+        [2] = {coords = vector4(311.35, -582.95, 44.2, 69.93), taken = false, model = 1631638868},
+        [3] = {coords = vector4(317.93, -585.48, 44.2, 69.71), taken = false, model = 2117668672},
+
 	--- paleto
 	    [9] = {coords = vector4(-252.43, 6312.25, 32.34, 313.48), taken = false, model = 2117668672},
         [10] = {coords = vector4(-247.04, 6317.95, 32.34, 134.64), taken = false, model = 2117668672},
