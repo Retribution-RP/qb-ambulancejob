@@ -35,7 +35,7 @@ Config.AlertShowInfo = 2 -- How many injuries a player must have before being al
 
 Config.Locations = { -- Edit the various interaction points for players or create new ones
     ["checking"] = {
- 	    [1] = vector3(306.97, -595.13, 43.28),
+ 	    [1] = vector3(331.04, -568.43, 43.28),
 	    [2] = vector3(-254.54, 6331.78, 32.43), -- paleto
     },
     ["duty"] = {
@@ -159,6 +159,70 @@ Config.Items = { -- Items found in the ambulance shop for players with the ambul
             info = {},
             type = "item",
             slot = 6,
+        },
+        [7] = {
+            name = "tweezers",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 7,
+        },
+        [8] = {
+            name = "medbag",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 8,
+        },
+        [9] = {
+            name = "suturekit",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 9,
+        },
+        [10] = {
+            name = "burncream",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 10,
+        },
+        [11] = {
+            name = "defib",
+            price = 0,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 11,
+        },
+        [12] = {
+            name = "bodybag",
+            price = 3000,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 12,
+        },
+        [13] = {
+            name = "sedative",
+            price = 2,
+            amount = 50,
+            info = {},
+            type = "item",
+            slot = 13,
+        },
+        [14] = {
+            name = "wheelchair",
+            price = 2500,
+            amount = 2,
+            info = {},
+            type = "item",
+            slot = 14,
         },
     }
 }
