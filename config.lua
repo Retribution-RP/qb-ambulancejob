@@ -43,7 +43,7 @@ Config.Locations = { -- Edit the various interaction points for players or creat
         [2] = vector3(-254.88, 6324.5, 32.58),
     },
     ["vehicle"] = {
-        [1] = vector4(318.0, -577.66, 28.8, 253.82),
+        [1] = vector3(319.35, -574.02, 28.52),
         [2] = vector4(-234.28, 6329.16, 32.15, 222.5),
     },
     ["helicopter"] = {
@@ -87,62 +87,62 @@ Config.Locations = { -- Edit the various interaction points for players or creat
 Config.AuthorizedVehicles = { -- Vehicles players can use based on their ambulance job grade level
 	-- Grade 0
 	[0] = {
-		["ambulance"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
 	},
 	-- Grade 1
 	[1] = {
-		["ambulance"] = "16ramambo",
-		["ambulance2"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
 	},
 	-- Grade 2
 	[2] = {
-		["ambulance"] = "16ramambo",
-		["ambulance2"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
 	},
 	-- Grade 3
 	[3] = {
-		["ambulance"] = "16ramambo",
-		["ambulance2"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
 	},
 	-- Grade 4
 	[4] = {
-		["ambulance"] = "16ramambo",
-		["ambulance2"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
 	},
     -- Grade 5
     [5] = {
-		["ambulance"] = "16ramambo",
-		["ambulance2"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
 	},
 	-- Grade 6
 	[6] = {
-		["ambulance"] = "16ramambo",
-		["ambulance2"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
 	},
 	-- Grade 7
 	[7] = {
-		["ambulance"] = "16ramambo",
-		["ambulance2"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
 	},
 	-- Grade 8
 	[8] = {
-		["ambulance"] = "16ramambo",
-		["ambulance2"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
 	},
 	-- Grade 9
 	[9] = {
-		["ambulance"] = "16ramambo",
-        ["ambulance2"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
+        ["16ramambo"] = "16ramambo",
     },
     -- Grade 10
     [10] = {
-		["ambulance"] = "16ramambo",
-		["ambulance2"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
     },
 	-- Grade 11
 	[11] = {
-		["ambulance"] = "16ramambo",
-		["ambulance2"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
+		["16ramambo"] = "16ramambo",
 	}
 }
 
